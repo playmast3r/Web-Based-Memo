@@ -17,7 +17,7 @@ if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'
 		$sql = "INSERT INTO memo (text) VALUES ('$text1');";
 		mysqli_query($db,$sql); // or die(mysqli_error($db));
 
-        $msg = "Content saved successfully";
+                $msg = "Content saved successfully";
         }
 else {
 	    $msg = "Invalid Captcha";}

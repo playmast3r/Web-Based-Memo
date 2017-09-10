@@ -6,6 +6,6 @@ This is web based Memo. I know there are lot of apps like Keep, Evernote, etc fo
 
 So this Web Based Memo solves this problem. It can be hosted on your website and you can just post it here and you can find it when you are home. You can add password feature if you want to keep your posts confidential. Soon I will also add file upload feature too in this.
 
-Feel free to drop suggestions at sid@iamsid.tk
+Feel free to drop suggestions at sid [at] playmaster.xyz
 
 Live Demo: COMING SOON!
